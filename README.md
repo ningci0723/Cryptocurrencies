@@ -6,23 +6,23 @@ The purpose of this project is to use unsupervised machine learning to analyze a
 This classification report might be used by an investment bank to offer a new cryptocurrency investment portfolio to its clients.
 We use the following methods for the analysis:
 
-Part 1: Preprocessing the Data for PCA
-Part 2: Reducing Data Dimensions Using PCA
-Part 3: Clustering Cryptocurrencies Using K-means
-Part 4: Visualizing Cryptocurrencies Results
+* Part 1: Preprocessing the Data for PCA
+* Part 2: Reducing Data Dimensions Using PCA
+* Part 3: Clustering Cryptocurrencies Using K-means
+* Part 4: Visualizing Cryptocurrencies Results
 
 
 
 ## Results
 
 1. Clustering Crytocurrencies Using K-Means
-![RandomOverSampler model](https://github.com/ningci0723/Credit_Risk_Analysis/blob/main/Images/RandomOverSampler.png)
+![K-Means](https://github.com/ningci0723/Cryptocurrencies/blob/main/Images/Clustering%20Crytocurrencies%20Using%20K-Means.png)
 
 2. Visualizing Cryptocurrencies Results
 
 * 3D-Scatter with Clusters
 
-![SMOTE Oversampling model](https://github.com/ningci0723/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling%20model.png)
+![3D-Scatter](https://github.com/ningci0723/Cryptocurrencies/blob/main/Images/visualizing%20cryptocurrencies%20results.png)
 
 
 
